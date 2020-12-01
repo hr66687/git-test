@@ -19,6 +19,10 @@ public class GitTest {
 
         int dev = 15;
         int aa = 20;
+
+        System.out.println("=======");
+
+        System.out.println("--------");
     }
 
 }
