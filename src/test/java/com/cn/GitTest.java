@@ -15,6 +15,7 @@ public class GitTest {
         a = a + 2;
         System.out.println(a);
 
+        int c = 15;
     }
 
 }
