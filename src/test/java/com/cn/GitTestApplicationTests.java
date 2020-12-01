@@ -15,6 +15,7 @@ public class GitTestApplicationTests {
         a = a + 2;
         System.out.println(a);
         System.out.println("将Github的修改更新到本地");
+        System.out.println("将本地的修改推送至Github");
 
 
     }
