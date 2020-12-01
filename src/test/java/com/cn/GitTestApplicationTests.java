@@ -18,6 +18,7 @@ public class GitTestApplicationTests {
         System.out.println("将本地的修改推送至Github");
 
 
+        System.out.println("=========");
     }
 
 }
