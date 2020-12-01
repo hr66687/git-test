@@ -25,6 +25,7 @@ public class GitTestApplicationTests {
 
 
         System.out.println("231");
+        System.out.println("*****************");
 
     }
 
