@@ -23,6 +23,9 @@ public class GitTestApplicationTests {
 
         System.out.println("zjr-华瑞");
 
+
+        System.out.println("231");
+
     }
 
 }
