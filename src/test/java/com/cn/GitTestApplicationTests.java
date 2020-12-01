@@ -10,7 +10,7 @@ public class GitTestApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("初始化Git创库");
-
+        System.out.println("zjr");
     }
 
 }
