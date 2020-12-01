@@ -11,6 +11,10 @@ public class GitTestApplicationTests {
     void contextLoads() {
         System.out.println("初始化Git创库");
         System.out.println("zjr");
+        int a = 10;
+        a = a + 2;
+        System.out.println(a);
+
     }
 
 }
